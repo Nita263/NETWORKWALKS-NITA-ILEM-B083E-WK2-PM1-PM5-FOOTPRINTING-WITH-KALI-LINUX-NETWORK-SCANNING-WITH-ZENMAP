@@ -28,3 +28,8 @@ The table below lists each tool used in this report and its purpose.
 | Whatweb | Fingerprint technologies running on the website (frameworks, servers CMS, plugins, IP).
 | nslookup | Resolve domain name to it´s IP address usimg DNS.
 | curl -I | Read HTTP response headers to see the server banner, status, cookies and redirects.
+| Wafw00f | Detects if a Web Application Firewall is protecting the site.
+| dnsrecon | Enumerates all DNS records (Mail servers, SPF, TXT SRV).
+| Zenmap (Nmap GUI) | Scan the local subnet to find live hosts, IPs and MAC addresses.
+| Windows CMD | Local IP and MAC address identification
+
