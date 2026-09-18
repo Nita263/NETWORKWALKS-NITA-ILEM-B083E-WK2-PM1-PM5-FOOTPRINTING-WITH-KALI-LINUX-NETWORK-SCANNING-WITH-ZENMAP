@@ -23,4 +23,8 @@ All commands were run in Kali Linux (footprinting) and on a Windows PC with Zenm
 The table below lists each tool used in this report and its purpose.
 | Tools | Purpose |
 | :---| :--- |
-| Kali Linux & Windows | Operating systems used for reconnaissance activities
+| Kali Linux & Windows | Operating systems used for reconnaissance activities.
+| WHOIS | Query public domain registration (name, owner, date, server).
+| Whatweb | Fingerprint technologies running on the website (frameworks, servers CMS, plugins, IP).
+| nslookup | Resolve domain name to it´s IP address usimg DNS.
+| curl -I | Read HTTP response headers to see the server banner, status, cookies and redirects.
